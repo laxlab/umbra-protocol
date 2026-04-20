@@ -1,0 +1,22 @@
+{
+  "name": "umbra-protocol",
+  "version": "1.0.0",
+  "description": "Confidential DeFi lending protocol with sealed-bid liquidations using iExec Nox",
+  "type": "module",
+  "scripts": {
+    "test": "hardhat test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laxonaunt/umbra-protocol.git"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "hardhat": "^3.0.0",
+    "@nomicfoundation/hardhat-toolbox-mocha-ethers": "^3.0.0",
+    "dotenv": "^16.0.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
