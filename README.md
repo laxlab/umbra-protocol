@@ -1,6 +1,4 @@
-README.md
-Open README.md, delete everything, paste this:
-markdown# Umbra Protocol
+
 
 **Confidential DeFi lending with sealed-bid liquidations on iExec Nox**
 
